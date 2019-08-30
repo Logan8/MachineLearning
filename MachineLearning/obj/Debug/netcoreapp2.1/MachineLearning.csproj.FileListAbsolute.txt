@@ -1,0 +1,13 @@
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\MachineLearning.deps.json
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\MachineLearning.runtimeconfig.json
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\MachineLearning.runtimeconfig.dev.json
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\MachineLearning.dll
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.csprojAssemblyReference.cache
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.csproj.CoreCompileInputs.cache
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.AssemblyInfoInputs.cache
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.AssemblyInfo.cs
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\MachineLearning.pdb
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.dll
+E:\Code\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.1\MachineLearning.pdb
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\Data\yelp_labelled.txt
+E:\Code\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.1\Data\yelp_labelled_stars_500.txt
